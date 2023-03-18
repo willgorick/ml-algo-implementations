@@ -1,0 +1,1 @@
+Install all requirements with `pip3 install -r requirements.txt`
